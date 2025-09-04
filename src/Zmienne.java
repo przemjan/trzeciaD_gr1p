@@ -23,5 +23,7 @@ public class Zmienne {
 
         boolean twierdzenie = true; //false
 
+        // https://github.com/przemjan/trzeciaD_gr1p
+
     }
 }

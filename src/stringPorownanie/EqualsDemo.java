@@ -3,7 +3,7 @@ package stringPorownanie;
 public class EqualsDemo {
     public static void main(String[] args) {
         String imie1 = "Arnold";
-        String imie2 = "arnold";
+        String imie2 = "Arnold";
 
         if( imie1.equalsIgnoreCase(imie2) )    {
             System.out.println("Te imiona są takie same");
